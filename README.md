@@ -1,9 +1,14 @@
-How to use:
-Step 1: Run the go file (listens on port 8080)
+# How to use:
 
-Step 2: Run "startGo.java".
+## Step 1: 
 
-Example output:
+Run "main.go" file (listens on port 8080)
+
+## Step 2: 
+
+Run "startGo.java".
+
+## Example output:
 
 "Response Code: 200
 Response Content: {"result of go":"Hello, exampleParameter1, exampleParameter2!"}"
