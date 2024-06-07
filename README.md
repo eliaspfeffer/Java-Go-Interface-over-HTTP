@@ -10,5 +10,6 @@ Run "startGo.java".
 
 ## Example output:
 
-"Response Code: 200
+Response Code: 200
+
 Response Content: {"result of go":"Hello, exampleParameter1, exampleParameter2!"}"
